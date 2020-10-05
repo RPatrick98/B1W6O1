@@ -64,8 +64,8 @@ h2{
 .p2{
 	font-family: 'Roboto', sans-serif;
 	width: 940px;
-	margin: 0 auto;	
-	padding-top: 25px;
+	
+	
 	border-radius: : 4px radius;
 
 }
@@ -123,11 +123,11 @@ hr{
 }
 
 .border{
-  border-radius: 4px;
-  background: #def6ed;
-  padding-bottom: 25px;
-  width: 900px;
-  margin: 0 auto;
+  	border-radius: 4px;
+  	background: #def6ed;
+  	padding-bottom: 25px;
+  	width: 900px;
+  	margin-left: 480px;
   
 }
 
@@ -136,15 +136,32 @@ span{
 }
 
 .foto1{
+  
+  display: block;
+	
+  margin-left: 480px;
+  margin-bottom: 20px;
+  width: 40%;
+
 
 }
 
 .foto2{
-	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
 }
 
 .foto3{
-	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 48%;
+
+
 }
 
 

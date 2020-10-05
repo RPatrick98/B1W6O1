@@ -110,15 +110,7 @@ h2{
 
 }
 
-img{
-	display: block;
-	
-  	margin-left: 480px;
-  	margin-bottom: 20px;
 
-    width: 40%;
-
-}
 
 
 hr{
@@ -141,6 +133,18 @@ hr{
 
 span{
 	font-weight: bold; 
+}
+
+.foto1{
+
+}
+
+.foto2{
+	
+}
+
+.foto3{
+	
 }
 
 
